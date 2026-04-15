@@ -1,86 +1,45 @@
-# Projeto-Amarelo
+🎓 Projeto Escola Sem Evasão: O Hub da Educação Real
+Este projeto propõe uma revolução no sistema educacional para combater a evasão escolar. Através de um ecossistema que une o mundo virtual (Minecraft Education) e o mundo real (App Mobile), demonstramos como uma educação focada no aluno e no engajamento pode transformar o futuro acadêmico e profissional.
 
-🚀 Desenvolve App: Vanguarda no Combate à Evasão Escolar
-O Desenvolve App é uma solução disruptiva criada pelo Time Amarelo para ressignificar a experiência educacional. Através de trilhas de aprendizagem hiper-personalizadas e um ecossistema focado em engajamento, combatemos a evasão escolar conectando a teoria acadêmica ao mercado de trabalho global.
+🚀 A Proposta
+O objetivo é criar uma ponte entre o modelo de ensino tradicional e as necessidades reais do jovem moderno, combatendo o abandono escolar através de pertencimento, capacitação técnica e didática aplicada.
 
-📌 Índice
-Visão Geral
+🛠️ O Ecossistema Tecnológico
+Minecraft Education & MakeCode: Construção de um ambiente escolar imersivo e gamificado, com automações e lógica de programação.
 
-O Problema
+App Mobile (Protótipo): O "Hub Escolar" que conecta o aluno à instituição, servindo como o painel de controle da vida estudantil.
 
-A Solução
+Power BI: Análise de dados para monitorar o engajamento e prever riscos de evasão.
 
-Pilares do Ecossistema
+GitHub & Copilot: Gestão de código e aceleração do desenvolvimento com IA.
 
-MVP (Mínimo Produto Viável)
+🏛️ Os 4 Pilares da Retenção
+Nossa metodologia no jogo e no app baseia-se em quatro fundamentos críticos:
 
-Estrutura Técnica
+Cursos Preparatórios: Trilhas de Moda, Informática, Culinária, etc. O foco é preparar o aluno para o mercado de trabalho precocemente, permitindo que ele ajude em casa sem precisar abandonar os estudos.
 
-FAQ
+Trilhas de Ensino Específicas: Flexibilidade curricular onde o aluno foca no que ama, preparando-se para vestibulares e carreiras que fazem sentido para seu perfil.
 
-🔍 Visão Geral
-O projeto Escola sem Evasão consolida uma plataforma única (Hub) que atua na retenção preventiva de talentos. Diferente de modelos tradicionais, o app integra o desenvolvimento de competências técnicas (Hard Skills), comportamentais (Soft Skills) e o fomento ao desporto educacional.
+Didática Avançada: Substituímos a "decoreba" pela aplicação prática. Professores demonstram o uso do conhecimento no dia a dia, gerando entendimento real.
 
-⚠️ O Problema
-O sistema educacional brasileiro enfrenta desafios estruturais que resultam em altos índices de desengajamento. A falta de conexão entre o conteúdo escolar e a empregabilidade compromete o futuro socioeconômico dos jovens e a formação de novas lideranças.
+Esportes e Competições: Incentivo ao espírito de equipe e saúde através de atividades extracurriculares e competições acadêmicas/esportivas entre turmas.
 
-✅ A Solução
-Nossa plataforma cria um ambiente de alta performance e pertencimento:
+📱 O Protótipo (App Hub)
+O aplicativo funciona como uma parceria com as instituições de ensino, unindo a infraestrutura existente com ferramentas modernas:
 
-Trilhas Hiper-personalizadas: Conteúdo adaptado ao perfil do aluno.
+Inscrições em oficinas e cursos.
 
-Conexão com Carreira: Módulos focados em profissões do futuro.
+Acompanhamento de desempenho nas competições.
 
-Gamificação Esportiva: Calendários competitivos que abrem portas para bolsas de estudo.
+Acesso a conteúdos de apoio e trilhas personalizadas.
 
-Modelo Hub: Uma única rede escalável onde cada escola personaliza seu espaço.
+Integração com o progresso realizado dentro do Minecraft.
 
-🏗️ Pilares do Ecossistema
-O aplicativo é sustentado por três eixos fundamentais de retenção:
-
-Trilhas de Carreira (Hard Skills): Foco em empregabilidade imediata (Programação, Design, Gestão).
-
-Gamificação e Engajamento: Torneios intercolegiais e esportes tradicionais.
-
-Suporte Pedagógico (Soft Skills): Mentorias e trilhas de autoconhecimento e propósito.
-
-🎯 MVP (Mínimo Produto Viável)
-O foco inicial está no maior gargalo: a transição escola-mercado.
-
-Funcionalidade Core: Trilha robusta de Introdução ao Desenvolvimento de Software (Java).
-
-Engajamento: Dashboard básico de competições escolares.
-
-Conteúdo: Experiência multimodal com vídeos curtos, quizzes e textos objetivos.
-
-🛠️ Estrutura Técnica
-Arquitetura: Baseada em nuvem (Cloud-based), garantindo acesso via smartphones, tablets ou computadores.
-
-Estratégia de Conteúdo: Híbrida (Curadoria com IA + Parcerias + Produção Própria).
-
-Integração Especial: Suporte ao Minecraft Education para aulas práticas e simulações.
-
-💬 FAQ (Resumo)
-Externo (Para Clientes/Escolas)
-<details>
-<summary><b>Para quem é este aplicativo?</b></summary>
-Instituições de ensino de alto desempenho que buscam modernizar seus modelos pedagógicos e reduzir a evasão.
-</details>
-
-<details>
-<summary><b>A escola ainda tem autonomia sobre as notas?</b></summary>
-Sim. O app fornece indicadores de engajamento e suporte, mas a gestão formal de notas é de exclusividade da instituição.
-</details>
-
-Interno (Para a Equipe)
-<details>
-<summary><b>Por que modelo Hub e não White Label?</b></summary>
-Pela escalabilidade e redução de custos. O modelo Hub permite criar uma rede real entre diferentes escolas, facilitando competições e eventos globais.
-</details>
-
-<details>
-<summary><b>Como o conteúdo será entregue?</b></summary>
-No estilo "Reels/TikTok" para introdução, seguido de quizzes gamificados para validação de conhecimento.
-</details>
-
-Time Amarelo - Transformando potencial ocioso em sucesso acadêmico e profissional.
+🏗️ Estrutura do Repositório
+Bash
+├── minecraft-world/      # Arquivos do mundo e scripts MakeCode
+├── mobile-app/           # Código fonte do protótipo (React Native/Flutter/Swift)
+├── analytics/            # Dashboards e datasets do Power BI
+└── docs/                 # Documentação do projeto e regras de negócio
+👥 Equipe e Contribuição
+Este projeto faz parte de uma jornada de desenvolvimento focada em impacto social.
