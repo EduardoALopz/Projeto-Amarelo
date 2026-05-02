@@ -1,1 +1,2 @@
-![Texto Alternativo](Grupo Amarelo - DuckDevs.pdf)
+![Mascote GitDuck](gitduck.png)
+![Dashboard Evasão Escolar SP](dashboard.png)
